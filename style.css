@@ -1,0 +1,22 @@
+#footer {
+    bottom : 0;
+    position: fixed;
+    background-color: grey;
+    color: white;
+    width : 100%;
+    text-align: center;
+}
+body {
+    background-size : cover
+}
+#heading {
+    color: white;
+    font-size: 24px;
+    width: 100%;
+}
+canvas {
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 2px 2px 2px #00ff5e;
+    margin-top: 200px;
+}
